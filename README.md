@@ -1,2 +1,2 @@
 # GPSPortfolio.online
-A wesbite to show what I have done IG
+This is a website that I am rushing to build to show off my skills.
